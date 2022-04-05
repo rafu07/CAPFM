@@ -1,0 +1,3 @@
+ID;Beschreibung;Kontraktart;Lieferant;Waehrung;EKGRP;EKORG;BUKRS;Genehmigender;Zielwert;Umrechnungskurs;FixierterKurs;Zahlungsbed;ErsteZahlungInTagen;SkontoErsteZahlung;ZweiteZahlungInTagen;SkontoZweiteZahlung;Skontotage;Angebot;IhrZeichen;UnserZeichen;Verkauefer;Rechungssteller;VOLUMENPOSITION_Dokumentennummer
+22cb9dc0-b173-11ec-b909-0242ac120002;Beispielkontrakt Beschreibung;MK;BeispielLiferant;EUR;010;0001;1000;Max Muster;100000;1.002;1.002;Beispeilzahlungsbedingung;25;25;25;25;25;Beispielangebot;IhrZeichen;UnserZeichen;Beispielverkäufer;Beispielrechungssteller;2021.100001
+
